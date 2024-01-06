@@ -14,7 +14,7 @@ inquirer.prompt([
     },
     {
         type : "input",
-        name:"descri[tion",
+        name:"description",
         message:"Enter your Project description"
      },
      {
@@ -59,9 +59,11 @@ inquirer.prompt([
      },
      
 ]).then(response => {
-    fs.writeFileSync("README", generateMarkdown(response),function(err,data){
+    fs.writeFileSync("READMEOUTPUT.md", generateMarkdown(response),function(err,data){
         if(err) throw err
     })
     console.log("readmegenerator");
 })
 }
+
+init()
