@@ -7,7 +7,7 @@ function renderLicenseBadge(license) {
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  return `![For more information on licence please check this ](https://choosealicense.com/licenses/)`
+  return `[For more information on licence please check this ](https://choosealicense.com/licenses/)`
 }
 
 // TODO: Create a function that returns the license section of README
@@ -55,7 +55,7 @@ function generateMarkdown(data) {
   If you have any questions please reach us at  ${data.email}
 
   Please check my other projects at 
-  ![Github Profile](https://github.com/${data.github})
+  [Github Profile](https://github.com/${data.github})
   
 
 

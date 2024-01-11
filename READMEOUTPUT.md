@@ -1,4 +1,4 @@
-# readme generator
+# Readme Generator
 
 ## Table of Contents
 
@@ -13,29 +13,29 @@
 
 
   ### Description
-  backend application using inquirer
+  It'a backend application
 
   ### Installation
   npm i
 
   ### Usage
-  open source
+  it's a open source application 
 
   ### Licence
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
-  ![For more information on licence please check this ](https://choosealicense.com/licenses/)
+  [For more information on licence please check this ](https://choosealicense.com/licenses/)
 
   ### Contributing
-  this project does not take any contributions
+  this project does not need any guidelines
 
   ### Tests
-  Manual teting
+  Manual testing
 
   ### Contact
-  If you have any questions please reach us at  manasa
+  If you have any questions please reach us at  manasa.vijay09@gmail.com
 
   Please check my other projects at 
-  ![Github Profile](https://github.com/manasavijay)
+  [Github Profile](https://github.com/Manasa.vijay)
   
 
 
